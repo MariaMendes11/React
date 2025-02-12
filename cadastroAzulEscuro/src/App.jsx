@@ -1,5 +1,6 @@
 import Cadastro from "./Cadastro/Cadastro"
 
+
 function App() {
 
   return (
@@ -7,6 +8,7 @@ function App() {
       <Cadastro/>
     </div>
   )
+
 }
 
 export default App;
